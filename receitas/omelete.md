@@ -1,8 +1,8 @@
-#Omelete
-###**Uma receita boa**
-###_Aprendendo a Fazer_
+<h1>Omelete</h1>
+<h3>**Uma receita boa**</h3>
+<h3>_Aprendendo a Fazer_</h3>
 
-##Ingredientes
+<h2>Ingredientes</h2>
 - 1 ovo
 - 1 pitada de sal
 - 1 pote pequeno
@@ -10,7 +10,7 @@
 - 1 fogão
 - 100 ml de óleo
 
-##Modo de Preparo
+<h2>Modo de Preparo</h2>
 - 1. Bata o sal, a clara e a gema do ovo no pote pequeno.
 - 2. Coloque o óleo na panela.
 - 3. Coloque a mistura contida no pote em cima do óleo.
